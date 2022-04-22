@@ -14,7 +14,7 @@ import java.util.List;
 
 public class US2 {
     DashboardPage dashBoardPage = new DashboardPage();
-    UsersPage usersPage = new UsersPage();
+
     BooksPage booksPage = new BooksPage();
 
     @Given("I am in the homepage of the library app")

@@ -11,7 +11,7 @@ import java.util.Map;
 
 public class US5 {
     DashboardPage dashBoardPage = new DashboardPage();
-    UsersPage usersPage = new UsersPage();
+
     BooksPage booksPage = new BooksPage();
 
 
